@@ -49,7 +49,7 @@ Easily deploy your own instance of Utopia using one of the platforms below:
 ```bash
 # Clone the repository
 git clone https://github.com/BD1493/lms.git
-cd Utopia
+cd lms
 
 # Install dependencies
 npm install
@@ -59,11 +59,7 @@ npm start
 ```
 
 ---
-## 💬 Community & Support
-Need help deploying or want to suggest features?
-- Join the official Discord: **[discord.gg/hFZC5cgsmq](https://discord.gg/hFZC5cgsmq)**
 
-[![Join us on Discord](https://invidget.switchblade.xyz/hFZC5cgsmq?theme=dark)](https://discord.gg/unblockers)
 
 ---
 <p align="center">
