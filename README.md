@@ -63,5 +63,5 @@ npm start
 
 ---
 <p align="center">
-  <strong>⭐ Star this repository if Utopia helps you!</strong>
+  <strong>⭐ Star this repository if lms helps you!</strong>
 </p>
