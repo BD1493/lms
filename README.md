@@ -48,7 +48,7 @@ Easily deploy your own instance of Utopia using one of the platforms below:
 ### Manual Setup
 ```bash
 # Clone the repository
-git clone https://github.com/UtopiaUnblocker/Utopia.git
+git clone https://github.com/BD1493/lms.git
 cd Utopia
 
 # Install dependencies
