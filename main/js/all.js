@@ -25,6 +25,8 @@ if(inFrame() != true && usingFirefox() != true && localStorage.getItem("auto_clo
   }
 }
 
+
+
 if(localStorage.getItem("anti_close") == "true"){
   if(inFrame() != false){
     window.top.addEventListener('beforeunload', function (e) {
